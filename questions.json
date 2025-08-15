@@ -1,0 +1,918 @@
+{
+  "geografie": [
+    {
+      "question": "Který oceán je největší na světě?",
+      "options": ["Atlantský", "Indický", "Tichý", "Severní ledový"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Jak se jmenuje hlavní město Kanady?",
+      "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hlavní město Brazílie je?",
+      "options": ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Který stát má nejvíce časových pásem?",
+      "options": ["USA", "Rusko", "Francie", "Čína"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Který kontinent má nejvíce států?",
+      "options": ["Evropa", "Afrika", "Asie", "Jižní Amerika"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Který kontinent je největší podle rozlohy?",
+      "options": ["Afrika", "Asie", "Severní Amerika", "Evropa"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jak se jmenuje nejdelší řeka světa?",
+      "options": ["Amazonka", "Nil", "Mississippi", "Yangtze"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Který stát sousedí s Českou republikou na jihu?",
+      "options": ["Polsko", "Slovensko", "Rakousko", "Německo"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Jak se jmenuje nejvyšší hora světa?",
+      "options": ["K2", "Kilimandžáro", "Mount Everest", "Alpy"],
+      "correctIndex": 2
+    },
+    {
+    "question": "Jak se jmenuje největší poušť na světě?",
+    "options": ["Sahara", "Gobi", "Antarktická", "Arabská"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ve které zemi najdeme město Timbuktu?",
+    "options": ["Maroko", "Mali", "Nigérie", "Alžírsko"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Který oceán je nejhlubší?",
+    "options": ["Atlantský", "Tichý", "Indický", "Severní ledový"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Jaký stát má nejvíce obyvatel na světě?",
+    "options": ["Indie", "Čína", "USA", "Rusko"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Jak se jmenuje největší ostrov světa?",
+    "options": ["Austrálie", "Grónsko", "Madagaskar", "Borneo"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Kde se nachází Grand Canyon?",
+    "options": ["Nevada", "Arizona", "Utah", "Kalifornie"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Jaký je nejvyšší vrchol Evropy?",
+    "options": ["Mont Blanc", "Matterhorn", "Elbrus", "Grossglockner"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Který stát má tvar boty?",
+    "options": ["Španělsko", "Itálie", "Řecko", "Francie"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Kde se nachází město Dubrovník?",
+    "options": ["Slovinsko", "Chorvatsko", "Bosna a Hercegovina", "Černá Hora"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Jaký oceán omývá východní pobřeží Afriky?",
+    "options": ["Atlantský", "Indický", "Tichý", "Severní ledový"],
+    "correctIndex": 1
+  }
+  ],
+  "historie": [
+    {
+      "question": "Kdy byla založena Karlova univerzita?",
+      "options": ["1348", "1415", "1526", "1600"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kdy začala druhá světová válka?",
+      "options": ["1935", "1939", "1941", "1945"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kdo byl prvním československým prezidentem?",
+      "options": ["Tomáš Garrigue Masaryk", "Edvard Beneš", "Václav Havel", "Klement Gottwald"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Který český král byl známý jako 'Otec vlasti'?",
+      "options": ["Karel IV.", "Václav III.", "Přemysl Otakar II.", "Jan Lucemburský"],
+      "correctIndex": 0
+    },
+    {
+        "question": "Kdy proběhla bitva na Bílé hoře?",
+        "options": ["1618", "1620", "1648", "1600"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Kdo byl posledním českým králem?",
+        "options": ["Ferdinand I.", "Karel VI.", "František Josef I.", "Karel I."],
+        "correctIndex": 3
+    },
+    {
+        "question": "Kdy byla podepsána Mnichovská dohoda?",
+        "options": ["1936", "1938", "1939", "1940"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který český král padl v bitvě na Moravském poli?",
+        "options": ["Václav II.", "Přemysl Otakar II.", "Karel IV.", "Jan Lucemburský"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Kdy vznikla Československá republika?",
+        "options": ["1914", "1918", "1920", "1938"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Kdo byl hlavním představitelem husitů?",
+        "options": ["Jan Hus", "Jan Žižka", "Petr Chelčický", "Jiří z Poděbrad"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Kdy byla podepsána Versailleská smlouva?",
+        "options": ["1918", "1919", "1920", "1921"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který český panovník založil Nové Město pražské?",
+        "options": ["Karel IV.", "Václav IV.", "Rudolf II.", "Břetislav I."],
+        "correctIndex": 0
+    },
+    {
+        "question": "Kdy začala první světová válka?",
+        "options": ["1912", "1914", "1916", "1918"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Kdo byl českým králem a zároveň římským císařem?",
+        "options": ["Václav IV.", "Karel IV.", "Ludvík Jagellonský", "Ferdinand II."],
+        "correctIndex": 1
+    },
+    {
+        "question": "Kdy byla provedena bitva u Slavkova?",
+        "options": ["1805", "1812", "1799", "1815"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Kdo byl prezidentem ČSR během Pražského jara?",
+        "options": ["Antonín Novotný", "Ludvík Svoboda", "Gustáv Husák", "Edvard Beneš"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Kdy došlo k sametové revoluci?",
+        "options": ["1987", "1988", "1989", "1990"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Kdo byl českým králem během husitských válek?",
+        "options": ["Václav IV.", "Zikmund Lucemburský", "Jiří z Poděbrad", "Karel IV."],
+        "correctIndex": 1
+    },
+    {
+        "question": "Kdy byla Česká republika přijata do Evropské unie?",
+        "options": ["2000", "2002", "2004", "2006"],
+        "correctIndex": 2
+    }
+  ],
+  "filmy_a_seriály": [
+    {
+      "question": "Kdo režíroval film 'Pán prstenů'?",
+      "options": ["Steven Spielberg", "Peter Jackson", "James Cameron", "Christopher Nolan"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Který seriál obsahuje postavy jako Daenerys a Jon Snow?",
+      "options": ["Vikingové", "Zaklínač", "Hra o trůny", "Spartakus"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Kdo hrál hlavní roli ve filmu 'Titanic'?",
+      "options": ["Brad Pitt", "Leonardo DiCaprio", "Tom Cruise", "Johnny Depp"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Který film režíroval Quentin Tarantino?",
+      "options": ["Matrix", "Pulp Fiction", "Gladiátor", "Titanic"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jak se jmenuje seriál s postavami jako Sheldon a Leonard?",
+      "options": ["Přátelé", "Teorie velkého třesku", "Jak jsem poznal vaši matku", "Simpsonovi"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Který film získal Oscara za nejlepší film v roce 1994?",
+      "options": ["Forrest Gump", "Pulp Fiction", "Shawshank Redemption", "Lví král"],
+      "correctIndex": 0
+    },
+    {
+        "question": "Kdo režíroval film 'Inception'?",
+        "options": ["Christopher Nolan", "David Fincher", "Ridley Scott", "James Cameron"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jak se jmenuje animovaný film o pandě, která se učí kung-fu?",
+        "options": ["Kung Fu Panda", "Madagaskar", "Shrek", "Zootropolis"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který herec ztvárnil Iron Mana v Marvel filmech?",
+        "options": ["Chris Evans", "Robert Downey Jr.", "Mark Ruffalo", "Chris Hemsworth"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Ve kterém seriálu vystupuje postava jménem Walter White?",
+        "options": ["Breaking Bad", "Dexter", "Narcos", "House of Cards"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který film režíroval James Cameron a odehrává se na planetě Pandora?",
+        "options": ["Avatar", "Interstellar", "Prometheus", "Star Trek"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jak se jmenuje kouzelnická škola ve světě Harryho Pottera?",
+        "options": ["Durmstrang", "Beauxbatons", "Hogwarts", "Ilvermorny"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Který seriál sleduje životy čtyř žen v New Yorku?",
+        "options": ["Sex ve městě", "Gilmorova děvčata", "Přátelé", "Desperate Housewives"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Kdo hrál hlavní roli ve filmu 'Joker' z roku 2019?",
+        "options": ["Joaquin Phoenix", "Heath Ledger", "Jared Leto", "Christian Bale"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který film je známý replikou 'May the Force be with you'?",
+        "options": ["Star Wars", "Star Trek", "Blade Runner", "Matrix"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jak se jmenuje animovaný seriál o rodině žijící ve Springfieldu?",
+        "options": ["Simpsonovi", "Griffinovi", "Rick a Morty", "South Park"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který film získal Oscara za nejlepší film v roce 2020?",
+        "options": ["1917", "Joker", "Parazit", "Tenet"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Který herec ztvárnil Sherlocka Holmese ve filmu z roku 2009?",
+        "options": ["Benedict Cumberbatch", "Robert Downey Jr.", "Henry Cavill", "Tom Hiddleston"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se jmenuje seriál, kde hlavní postava pracuje jako právník a zároveň učí na univerzitě?",
+        "options": ["How to Get Away with Murder", "Suits", "The Good Wife", "Better Call Saul"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který film režíroval Tim Burton a obsahuje postavu Jacka Skellingtona?",
+        "options": ["Mrtvá nevěsta", "Ospalá díra", "Noční můra před Vánoci", "Alenka v říši divů"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Který seriál se odehrává v prostředí vězeňského útěku?",
+        "options": ["Prison Break", "Oz", "Orange Is the New Black", "Mindhunter"],
+        "correctIndex": 0
+    },{
+        "question": "Který český režisér natočil film 'Kolja' oceněný Oscarem?",
+        "options": ["Jiří Menzel", "Jan Svěrák", "Věra Chytilová", "Zdeněk Troška"],
+        "correctIndex": 1
+    }
+  ],
+  "věda_a_příroda": [
+    {
+      "question": "Kolik nohou má pavouk?",
+      "options": ["6", "8", "10", "12"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jaký je chemický prvek s značkou Fe?",
+      "options": ["Fosfor", "Fluor", "Železo", "Fermium"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Jaký je chemický vzorec vody?",
+      "options": ["CO2", "H2O", "NaCl", "O2"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Který prvek má chemickou značku O?",
+      "options": ["Zlato", "Kyslík", "Vápník", "Dusík"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jaký je název největšího měsíce planety Jupiter?",
+      "options": ["Io", "Europa", "Ganymedes", "Callisto"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Která planeta je nejblíže Slunci?",
+      "options": ["Země", "Mars", "Merkur", "Venuše"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Jak se jmenuje největší savec na světě?",
+      "options": ["Slon africký", "Modrá velryba", "Nosorožec", "Žralok bílý"],
+      "correctIndex": 1
+    },
+    {
+        "question": "Který orgán v lidském těle je zodpovědný za filtrování krve?",
+        "options": ["Plíce", "Játra", "Ledviny", "Slezina"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jak se nazývá proces, při kterém rostliny vytvářejí energii ze slunečního světla?",
+        "options": ["Respirace", "Fotosyntéza", "Fermentace", "Oxidace"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který plynný prvek tvoří většinu atmosféry Země?",
+        "options": ["Kyslík", "Dusík", "Oxid uhličitý", "Vodík"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se nazývá nejdelší kost v lidském těle?",
+        "options": ["Lopatka", "Humerus", "Femur", "Páteř"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Který oceán je největší na světě?",
+        "options": ["Atlantský", "Indický", "Tichý", "Severní ledový"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jak se nazývá věda zabývající se chováním a strukturou hmoty?",
+        "options": ["Biologie", "Fyzika", "Chemie", "Geologie"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Který pták je známý svou schopností napodobovat lidskou řeč?",
+        "options": ["Sýkorka", "Papoušek", "Káně", "Holub"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se nazývá planeta známá svými prstenci?",
+        "options": ["Mars", "Saturn", "Uran", "Neptun"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který druh krevních buněk bojuje proti infekcím?",
+        "options": ["Červené krvinky", "Bílé krvinky", "Destičky", "Plazma"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se nazývá nejvyšší hora světa?",
+        "options": ["K2", "Kilimandžáro", "Everest", "Mont Blanc"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Který prvek je základní složkou organických sloučenin?",
+        "options": ["Dusík", "Uhlík", "Síra", "Vápník"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se nazývá skupina zvířat, která zahrnuje žáby a ropuchy?",
+        "options": ["Plazi", "Obojživelníci", "Savci", "Hmyz"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který smyslový orgán je zodpovědný za rovnováhu?",
+        "options": ["Nos", "Oko", "Ucho", "Kůže"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jak se nazývá proces, při kterém voda mění skupenství z kapalného na plynné?",
+        "options": ["Kondenzace", "Sublimace", "Vypařování", "Tání"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Které zvíře je nejrychlejší na souši?",
+        "options": ["Lev", "Gepard", "Kůň", "Antilopa"],
+        "correctIndex": 1
+    }
+  ],
+  "sport": [
+    {
+      "question": "Který český sportovec získal zlatou medaili v desetiboji na OH 2004?",
+      "options": ["Roman Šebrle", "Jan Železný", "Emil Zátopek", "David Svoboda"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kolik hráčů je na hřišti v jednom fotbalovém týmu?",
+      "options": ["9", "10", "11", "12"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Který sport se hraje s raketou a míčkem na trávě?",
+      "options": ["Tenis", "Badminton", "Squash", "Pozemní hokej"],
+      "correctIndex": 3
+    },
+    {
+        "question": "Který tenista vyhrál nejvíce grandslamových titulů ve dvouhře mužů?",
+        "options": ["Roger Federer", "Rafael Nadal", "Novak Djoković", "Pete Sampras"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jak se jmenuje slavný cyklistický závod konaný ve Francii?",
+        "options": ["Giro d'Italia", "Tour de France", "Vuelta a España", "Paris-Roubaix"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Ve kterém sportu se používá termín 'hole-in-one'?",
+        "options": ["Golf", "Baseball", "Tenis", "Kriket"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který český hokejista je známý pod přezdívkou 'Jágr'? ",
+        "options": ["Dominik Hašek", "Jaromír Jágr", "Tomáš Plekanec", "Patrik Eliáš"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Kolik minut trvá běžný zápas v basketbalu (NBA)?",
+        "options": ["40", "45", "48", "50"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Který sport se hraje na ledě s pukem?",
+        "options": ["Krasobruslení", "Curling", "Lední hokej", "Bobování"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Který sportovec je známý jako 'Blesk' a drží světový rekord na 100 m?",
+        "options": ["Carl Lewis", "Usain Bolt", "Justin Gatlin", "Tyson Gay"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se jmenuje nejprestižnější fotbalová liga v Anglii?",
+        "options": ["La Liga", "Serie A", "Premier League", "Bundesliga"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Kolik hráčů je na hřišti při volejbalovém zápase v jednom týmu?",
+        "options": ["5", "6", "7", "8"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který sport se hraje s míčem a košem?",
+        "options": ["Basketbal", "Házená", "Ragby", "Baseball"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jak se jmenuje nejznámější tenisový turnaj hraný na trávě?",
+        "options": ["US Open", "Australian Open", "Wimbledon", "French Open"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Který český běžec získal tři zlaté medaile na OH 1952?",
+        "options": ["Roman Šebrle", "Emil Zátopek", "Věra Čáslavská", "Jan Železný"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se nazývá sport, ve kterém se jezdí na koni přes překážky?",
+        "options": ["Drezura", "Parkur", "Rodeo", "Polokros"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který tým vyhrál mistrovství světa ve fotbale v roce 2018?",
+        "options": ["Brazílie", "Francie", "Německo", "Argentina"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který sport se hraje na antuce, trávě nebo tvrdém povrchu?",
+        "options": ["Tenis", "Squash", "Badminton", "Basketbal"],
+        "correctIndex": 0
+    }
+  ],
+  "literatura": [
+    {
+      "question": "Kdo napsal 'Babičku'?",
+      "options": ["Božena Němcová", "Karel Čapek", "Jaroslav Hašek", "Franz Kafka"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kdo je autorem knihy '1984'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Erich Maria Remarque"],
+      "correctIndex": 0
+    },
+    {
+        "question": "Kdo napsal dílo 'Malý princ'?",
+        "options": ["Antoine de Saint-Exupéry", "Jules Verne", "Victor Hugo", "Albert Camus"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který český spisovatel je autorem 'R.U.R.'?",
+        "options": ["Karel Čapek", "Josef Čapek", "Vladislav Vančura", "Jaroslav Seifert"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Kdo napsal román 'Na větrné hůrce'?",
+        "options": ["Jane Austen", "Emily Brontëová", "Charlotte Brontëová", "Mary Shelleyová"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který autor napsal 'Sto roků samoty'?",
+        "options": ["Mario Vargas Llosa", "Gabriel García Márquez", "Pablo Neruda", "Isabel Allende"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Kdo je autorem knihy 'Proces'?",
+        "options": ["Franz Kafka", "Thomas Mann", "Hermann Hesse", "Stefan Zweig"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který spisovatel vytvořil postavu Sherlocka Holmese?",
+        "options": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Ian Fleming"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Kdo napsal tragédii 'Romeo a Julie'?",
+        "options": ["William Shakespeare", "Christopher Marlowe", "John Milton", "Oscar Wilde"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který český autor napsal 'Osudy dobrého vojáka Švejka'?",
+        "options": ["Jaroslav Hašek", "Karel Poláček", "Eduard Bass", "František Langer"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Kdo je autorem knihy 'Pýcha a předsudek'?",
+        "options": ["Jane Austen", "Emily Brontëová", "George Eliot", "Virginia Woolf"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který spisovatel napsal 'Zločin a trest'?",
+        "options": ["Lev Tolstoj", "Anton Čechov", "Fjodor Dostojevskij", "Nikolaj Gogol"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Kdo napsal 'Frankensteina'?",
+        "options": ["Mary Shelleyová", "Bram Stoker", "H.G. Wells", "Robert Louis Stevenson"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který autor napsal 'Cizinec'?",
+        "options": ["Albert Camus", "Jean-Paul Sartre", "Simone de Beauvoir", "Marcel Proust"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Kdo je autorem knihy 'Jméno růže'?",
+        "options": ["Umberto Eco", "Italo Calvino", "Alessandro Baricco", "Giovanni Boccaccio"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který český básník získal Nobelovu cenu za literaturu?",
+        "options": ["Jaroslav Seifert", "Vítězslav Nezval", "František Halas", "Jiří Wolker"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který autor napsal 'Farma zvířat'?",
+        "options": ["George Orwell", "Mark Twain", "Jonathan Swift", "J.D. Salinger"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Kdo napsal 'Velkého Gatsbyho'?",
+        "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "William Faulkner"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který spisovatel je autorem 'Na západní frontě klid'?",
+        "options": ["Erich Maria Remarque", "Heinrich Böll", "Thomas Mann", "Günter Grass"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Kdo napsal 'Olivera Twista'?",
+        "options": ["Charles Dickens", "Mark Twain", "Lewis Carroll", "Oscar Wilde"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který autor napsal 'Hobita'?",
+        "options": ["J.R.R. Tolkien", "C.S. Lewis", "Philip Pullman", "Terry Pratchett"],
+        "correctIndex": 0
+    }
+  ],
+  "kultura": [
+    {
+        "question": "Který hudební skladatel je autorem symfonie 'Novosvětská'?",
+        "options": ["Ludwig van Beethoven", "Antonín Dvořák", "Wolfgang Amadeus Mozart", "Johannes Brahms"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se jmenuje tradiční japonské divadlo s maskami?",
+        "options": ["Kabuki", "Noh", "Bunraku", "Gagaku"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který malíř vytvořil slavný obraz 'Hvězdná noc'?",
+        "options": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Salvador Dalí"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se jmenuje slavný festival filmů konaný každoročně ve Francii?",
+        "options": ["Berlinale", "Cannes", "Sundance", "Benátky"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který český režisér natočil film 'Spalovač mrtvol'?",
+        "options": ["Jiří Menzel", "Věra Chytilová", "Juraj Herz", "Jan Svěrák"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jak se jmenuje tradiční mexický svátek uctívání zesnulých?",
+        "options": ["Día de los Muertos", "Carnaval", "Fiesta de la Vida", "Semana Santa"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který architekt navrhl Tančící dům v Praze?",
+        "options": ["Le Corbusier", "Frank Gehry", "Jan Kaplický", "Eva Jiřičná"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se jmenuje slavný obraz od Edvarda Muncha?",
+        "options": ["Výkřik", "Samota", "Stíny", "Zmatek"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který hudební styl vznikl v New Orleans na počátku 20. století?",
+        "options": ["Rock", "Jazz", "Blues", "Soul"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který spisovatel je považován za zakladatele moderního hororu?",
+        "options": ["Stephen King", "Edgar Allan Poe", "H.P. Lovecraft", "Bram Stoker"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se jmenuje tradiční indický tanec známý pro výraznou mimiku?",
+        "options": ["Kathak", "Bharatanatyam", "Odissi", "Kuchipudi"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který český hudebník je autorem písně 'Modlitba pro Martu'?",
+        "options": ["Karel Kryl", "Marta Kubišová", "Václav Neckář", "Petr Hapka"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se jmenuje slavný obraz od Leonarda da Vinciho zobrazující ženu?",
+        "options": ["Mona Lisa", "Dáma s hranostajem", "La Belle Ferronnière", "Madona ve skalách"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který hudební nástroj je typický pro klasickou indickou hudbu?",
+        "options": ["Sitar", "Balalajka", "Didgeridoo", "Koto"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jak se jmenuje tradiční český folklórní tanec?",
+        "options": ["Polka", "Mazurka", "Tarantella", "Fandango"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který malíř je známý pro své surrealistické obrazy s roztékajícími se hodinami?",
+        "options": ["Pablo Picasso", "Salvador Dalí", "Henri Matisse", "Joan Miró"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se jmenuje tradiční brazilský tanec spojený s karnevalem?",
+        "options": ["Tango", "Samba", "Rumba", "Cha-cha"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který český skladatel je autorem opery 'Prodaná nevěsta'?",
+        "options": ["Leoš Janáček", "Antonín Dvořák", "Bedřich Smetana", "Josef Suk"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jak se jmenuje slavný obraz od Sandro Botticelliho zobrazující zrození bohyně?",
+        "options": ["Zrození Venuše", "Primavera", "Madona s dítětem", "Apoteóza"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který hudební styl je spojen s Bobem Dylanem?",
+        "options": ["Rock", "Folk", "Jazz", "Country"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se jmenuje tradiční čínské divadlo s výrazným líčením?",
+        "options": ["Kabuki", "Peking Opera", "Noh", "Wayang"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který francouzský spisovatel napsal 'Chrám Matky Boží v Paříži'?",
+        "options": ["Victor Hugo", "Alexandre Dumas", "Émile Zola", "Gustave Flaubert"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jak se jmenuje slavný balet Petra Iljiče Čajkovského s motivem vánočních hraček?",
+        "options": ["Labutí jezero", "Louskáček", "Spící krasavice", "Romeo a Julie"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který český výtvarník je známý svými futuristickými návrhy a projektem knihovny Blob?",
+        "options": ["David Černý", "Jan Kaplický", "František Kupka", "Josef Lada"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se jmenuje tradiční španělský tanec doprovázený kastanětami?",
+        "options": ["Flamenco", "Bolero", "Paso doble", "Sardana"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který hudební nástroj je typický pro skotskou lidovou hudbu?",
+        "options": ["Banjo", "Dudy", "Mandolína", "Harfa"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se jmenuje slavná socha v New Yorku symbolizující svobodu?",
+        "options": ["Socha Svobody", "Socha Spravedlnosti", "Pomník nezávislosti", "Maják demokracie"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který hudební styl je spojen s Louisem Armstrongem?",
+        "options": ["Blues", "Jazz", "Soul", "Rock"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se jmenuje tradiční český lidový hudební nástroj s kovovými jazýčky?",
+        "options": ["Cimbál", "Fujara", "Dudy", "Zvonky"],
+        "correctIndex": 0
+    }
+],
+"technika": [
+    {
+        "question": "Kdo je považován za vynálezce telefonu?",
+        "options": ["Nikola Tesla", "Alexander Graham Bell", "Thomas Edison", "Guglielmo Marconi"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jaký prvek je nejčastěji používán v polovodičích?",
+        "options": ["Železo", "Křemík", "Hliník", "Měď"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který programovací jazyk je známý svou jednoduchostí a často se používá pro výuku?",
+        "options": ["C++", "Python", "Java", "Ruby"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se jmenuje zařízení, které převádí sluneční energii na elektrickou?",
+        "options": ["Solární panel", "Turbína", "Akumulátor", "Transformátor"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který český vynálezce je spojen s vývojem kontaktních čoček?",
+        "options": ["Otto Wichterle", "Jaroslav Heyrovský", "František Křižík", "Josef Ressel"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jak se nazývá technologie umožňující bezdrátové připojení zařízení k internetu?",
+        "options": ["Bluetooth", "Wi-Fi", "Ethernet", "NFC"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který automobilový výrobce jako první zavedl pásovou výrobu?",
+        "options": ["Toyota", "Ford", "Volkswagen", "Renault"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jaký je hlavní účel mikroskopu?",
+        "options": ["Zvětšování malých objektů", "Měření vzdálenosti", "Zaznamenávání zvuku", "Zobrazování teploty"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jak se nazývá proces výroby trojrozměrných objektů z digitálního modelu?",
+        "options": ["Frézování", "3D tisk", "Laserování", "Gravírování"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který typ energie využívá vodní elektrárna?",
+        "options": ["Sluneční", "Jadernou", "Mechanickou", "Chemickou"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jak se nazývá zařízení, které mění střídavý proud na stejnosměrný?",
+        "options": ["Transformátor", "Usměrňovač", "Generátor", "Kondenzátor"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který software se nejčastěji používá pro úpravu fotografií?",
+        "options": ["AutoCAD", "Photoshop", "Excel", "Word"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se nazývá věda zabývající se konstrukcí robotů?",
+        "options": ["Kybernetika", "Robotika", "Mechatronika", "Automatika"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který materiál je nejčastěji používán pro výrobu elektrických vodičů?",
+        "options": ["Zlato", "Hliník", "Měď", "Stříbro"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jak se nazývá zařízení, které uchovává elektrickou energii pro pozdější použití?",
+        "options": ["Baterie", "Rezistor", "Kondenzátor", "Transformátor"],
+        "correctIndex": 0
+    },{
+        "question": "Který fyzikální zákon popisuje vztah mezi napětím, proudem a odporem?",
+        "options": ["Ohmův zákon", "Newtonův zákon", "Hookův zákon", "Kirchhoffův zákon"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jaký je hlavní účel gyroskopu v elektronice?",
+        "options": ["Zaznamenávání zvuku", "Měření teploty", "Detekce rotace a orientace", "Zvětšování obrazu"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Který typ motoru se nejčastěji používá v elektromobilech?",
+        "options": ["Dieselový motor", "Benzínový motor", "Asynchronní motor", "Stejnosměrný elektromotor"],
+        "correctIndex": 3
+    },
+    {
+        "question": "Jak se nazývá proces spojování kovových částí pomocí tepla?",
+        "options": ["Frézování", "Svařování", "Řezání", "Lisování"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který přístroj se používá k měření elektrického proudu?",
+        "options": ["Voltmetr", "Ohmmetr", "Ampermetr", "Osciloskop"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jaký je účel kondenzátoru v elektrickém obvodu?",
+        "options": ["Zesilování signálu", "Ukládání elektrické energie", "Změna napětí", "Ochrana proti přepětí"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který materiál se nejčastěji používá jako izolant v elektrických kabelech?",
+        "options": ["Měď", "Plast", "Hliník", "Sklo"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se nazývá zařízení, které převádí mechanickou energii na elektrickou?",
+        "options": ["Motor", "Generátor", "Transformátor", "Kondenzátor"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který typ součástky slouží k zesílení elektrického signálu?",
+        "options": ["Rezistor", "Diody", "Tranzistor", "Kondenzátor"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jak se nazývá technologie, která umožňuje výrobu velmi malých elektronických součástek?",
+        "options": ["Makrotechnologie", "Nanotechnologie", "Biotechnologie", "Mechatronika"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který typ obvodu umožňuje logické operace v počítači?",
+        "options": ["Analogový obvod", "Digitální obvod", "Mechanický obvod", "Optický obvod"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jak se nazývá zařízení, které převádí digitální signál na analogový?",
+        "options": ["ADC převodník", "DAC převodník", "Modulátor", "Demodulátor"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Který typ paměti je volatilní a ztrácí data po vypnutí zařízení?",
+        "options": ["ROM", "Flash", "RAM", "SSD"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jak se nazývá proces odstraňování materiálu pomocí laseru?",
+        "options": ["Gravírování", "Svařování", "Frézování", "Tisk"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Který typ displeje se nejčastěji používá v moderních smartphonech?",
+        "options": ["LCD", "LED", "OLED", "CRT"],
+        "correctIndex": 2
+    }
+]
+
+
+}
