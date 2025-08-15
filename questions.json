@@ -1219,7 +1219,697 @@
         "options": ["Jméno", "Telefon", "Dům", "Auto"],
         "correctIndex": 0
     }
-]
+],
+"medicína": [
 
+    {
+      "question": "Jaký orgán je zodpovědný za produkci inzulínu?",
+      "options": ["Játra", "Slinivka břišní", "Ledviny", "Žaludek"],
+      "answer": "Slinivka břišní"
+    },
+    {
+      "question": "Kolik kostí má dospělý člověk?",
+      "options": ["206", "180", "220", "195"],
+      "answer": "206"
+    },
+    {
+      "question": "Jaký je hlavní účel červených krvinek?",
+      "options": ["Bojují proti infekcím", "Přenášejí kyslík", "Produkují hormony", "Regulují tělesnou teplotu"],
+      "answer": "Přenášejí kyslík"
+    },
+    {
+      "question": "Který vitamin je důležitý pro srážlivost krve?",
+      "options": ["Vitamin A", "Vitamin C", "Vitamin K", "Vitamin D"],
+      "answer": "Vitamin K"
+    },
+    {
+      "question": "Jak se nazývá lékař specializující se na srdce?",
+      "options": ["Neurolog", "Kardiolog", "Dermatolog", "Onkolog"],
+      "answer": "Kardiolog"
+    },
+    {
+      "question": "Který orgán je největší v lidském těle?",
+      "options": ["Mozek", "Játra", "Kůže", "Plíce"],
+      "answer": "Kůže"
+    },
+    {
+      "question": "Jaký je normální krevní tlak u dospělého člověka?",
+      "options": ["120/80 mmHg", "140/90 mmHg", "100/70 mmHg", "160/100 mmHg"],
+      "answer": "120/80 mmHg"
+    },
+    {
+      "question": "Co je to antibiotikum?",
+      "options": ["Lék proti bolesti", "Lék proti virům", "Lék proti bakteriím", "Lék na srdce"],
+      "answer": "Lék proti bakteriím"
+    },
+    {
+      "question": "Jaký je hlavní příznak cukrovky?",
+      "options": ["Nízký krevní tlak", "Vysoká hladina cukru v krvi", "Zvýšená teplota", "Bolest hlavy"],
+      "answer": "Vysoká hladina cukru v krvi"
+    },
+    {
+      "question": "Který orgán filtruje krev a produkuje moč?",
+      "options": ["Játra", "Ledviny", "Slinivka", "Plíce"],
+      "answer": "Ledviny"
+    },
+    {
+      "question": "Jak se nazývá stav, kdy je tělo dehydratované?",
+      "options": ["Hypertenze", "Hypoglykémie", "Dehydratace", "Anémie"],
+      "answer": "Dehydratace"
+    },
+    {
+      "question": "Který typ buněk bojuje proti infekcím?",
+      "options": ["Červené krvinky", "Bílé krvinky", "Trombocyty", "Neuronové buňky"],
+      "answer": "Bílé krvinky"
+    },
+    {
+      "question": "Jaký je lékařský termín pro vysoký krevní tlak?",
+      "options": ["Hypotenze", "Hypertenze", "Anémie", "Tachykardie"],
+      "answer": "Hypertenze"
+    },
+    {
+      "question": "Co je to vakcína?",
+      "options": ["Lék proti bolesti", "Preventivní prostředek proti infekci", "Antibiotikum", "Hormonální léčba"],
+      "answer": "Preventivní prostředek proti infekci"
+    },
+    {
+      "question": "Který orgán je postižen při hepatitidě?",
+      "options": ["Srdce", "Plíce", "Játra", "Ledviny"],
+      "answer": "Játra"
+    },
+
+    {
+      "question": "Jak se nazývá věda zabývající se strukturou lidského těla?",
+      "options": ["Fyziologie", "Anatomie", "Patologie", "Farmakologie"],
+      "answer": "Anatomie"
+    },
+    {
+      "question": "Který hormon reguluje hladinu cukru v krvi?",
+      "options": ["Adrenalin", "Kortizol", "Inzulín", "Testosteron"],
+      "answer": "Inzulín"
+    },
+    {
+      "question": "Jaký je lékařský termín pro rakovinu krve?",
+      "options": ["Leukémie", "Melanom", "Karcinom", "Lymfom"],
+      "answer": "Leukémie"
+    },
+    {
+      "question": "Který orgán je zodpovědný za detoxikaci těla?",
+      "options": ["Ledviny", "Játra", "Plíce", "Slinivka"],
+      "answer": "Játra"
+    },
+    {
+      "question": "Jak se nazývá přístroj na měření krevního tlaku?",
+      "options": ["Stetoskop", "Tonometr", "EKG", "Spirometr"],
+      "answer": "Tonometr"
+    },
+    {
+      "question": "Co je to MRI?",
+      "options": ["Typ operace", "Typ krevního testu", "Zobrazovací metoda", "Lék proti bolesti"],
+      "answer": "Zobrazovací metoda"
+    },
+    {
+      "question": "Jaký je hlavní účel vakcíny?",
+      "options": ["Léčit nemoc", "Zabránit infekci", "Zmírnit bolest", "Zvýšit energii"],
+      "answer": "Zabránit infekci"
+    },
+    {
+      "question": "Který orgán je zodpovědný za pumpování krve?",
+      "options": ["Mozek", "Plíce", "Srdce", "Játra"],
+      "answer": "Srdce"
+    },
+    {
+      "question": "Jak se nazývá odborník na duševní zdraví?",
+      "options": ["Neurolog", "Psychiatr", "Ortoped", "Dermatolog"],
+      "answer": "Psychiatr"
+    },
+    {
+      "question": "Který typ diabetu je závislý na inzulínu?",
+      "options": ["Typ 1", "Typ 2", "Gestacionální", "Typ 3"],
+      "answer": "Typ 1"
+    },
+    {
+      "question": "Jak se nazývá stav, kdy tělo nedokáže produkovat dostatek červených krvinek?",
+      "options": ["Anémie", "Leukémie", "Trombóza", "Hemofilie"],
+      "answer": "Anémie"
+    },
+    {
+      "question": "Který orgán je postižen při astmatu?",
+      "options": ["Srdce", "Plíce", "Játra", "Ledviny"],
+      "answer": "Plíce"
+    },
+    {
+      "question": "Jak se nazývá chirurgické odstranění slepého střeva?",
+      "options": ["Appendektomie", "Gastrektomie", "Hysterektomie", "Lobektomie"],
+      "answer": "Appendektomie"
+    },
+    {
+      "question": "Jaký je hlavní účel bílých krvinek?",
+      "options": ["Přenášet kyslík", "Pomáhat trávení", "Bojovat proti infekcím", "Regulovat hormony"],
+      "answer": "Bojovat proti infekcím"
+    },
+    {
+      "question": "Jak se nazývá stav, kdy je tělesná teplota vyšší než normální?",
+      "options": ["Hypotermie", "Febrilie", "Anémie", "Hypertenze"],
+      "answer": "Febrilie"
+    },
+
+    {
+      "question": "Jak se nazývá věda zabývající se léčivy?",
+      "options": ["Farmakologie", "Toxikologie", "Fyziologie", "Patologie"],
+      "answer": "Farmakologie"
+    },
+    {
+      "question": "Který orgán je zodpovědný za produkci žluči?",
+      "options": ["Slinivka", "Játra", "Žaludek", "Ledviny"],
+      "answer": "Játra"
+    },
+    {
+      "question": "Jaký je hlavní účel trombocytů?",
+      "options": ["Přenášet kyslík", "Bojují proti infekcím", "Pomáhají při srážení krve", "Regulují hormony"],
+      "answer": "Pomáhají při srážení krve"
+    },
+    {
+      "question": "Jak se nazývá lékař specializující se na léčbu rakoviny?",
+      "options": ["Onkolog", "Kardiolog", "Endokrinolog", "Urolog"],
+      "answer": "Onkolog"
+    },
+    {
+      "question": "Který vitamin je důležitý pro zdraví kostí?",
+      "options": ["Vitamin C", "Vitamin D", "Vitamin B12", "Vitamin K"],
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "Jak se nazývá stav, kdy je hladina hemoglobinu nízká?",
+      "options": ["Anémie", "Leukémie", "Hypotenze", "Hypertenze"],
+      "answer": "Anémie"
+    },
+    {
+      "question": "Který orgán je zodpovědný za regulaci hormonů?",
+      "options": ["Hypofýza", "Játra", "Plíce", "Srdce"],
+      "answer": "Hypofýza"
+    },
+    {
+      "question": "Jak se nazývá přístroj používaný k vyšetření srdce?",
+      "options": ["EKG", "EEG", "MRI", "CT"],
+      "answer": "EKG"
+    },
+    {
+      "question": "Který typ buněk tvoří nervový systém?",
+      "options": ["Erytrocyty", "Trombocyty", "Neurony", "Leukocyty"],
+      "answer": "Neurony"
+    },
+    {
+      "question": "Jak se nazývá odborník na kůži?",
+      "options": ["Dermatolog", "Neurolog", "Ortoped", "Endokrinolog"],
+      "answer": "Dermatolog"
+    },
+    {
+      "question": "Jak se nazývá stav, kdy je tělesná teplota pod normálem?",
+      "options": ["Hypertermie", "Hypotermie", "Febrilie", "Anémie"],
+      "answer": "Hypotermie"
+    },
+    {
+      "question": "Který orgán je zodpovědný za výměnu kyslíku a oxidu uhličitého?",
+      "options": ["Plíce", "Srdce", "Játra", "Ledviny"],
+      "answer": "Plíce"
+    },
+    {
+      "question": "Jak se nazývá látka, která způsobuje alergickou reakci?",
+      "options": ["Antigen", "Histamin", "Alergen", "Enzym"],
+      "answer": "Alergen"
+    },
+    {
+      "question": "Jaký je lékařský termín pro zánět kloubů?",
+      "options": ["Artritida", "Osteoporóza", "Skleróza", "Myopatie"],
+      "answer": "Artritida"
+    },
+    {
+      "question": "Který orgán je zodpovědný za trávení potravy?",
+      "options": ["Žaludek", "Plíce", "Srdce", "Mozek"],
+      "answer": "Žaludek"
+    }
+  ],
+   "matematika": [
+
+    {
+      "question": "Kolik je 7 × 8?",
+      "options": ["54", "56", "58", "60"],
+      "answer": "56"
+    },
+    {
+      "question": "Jaký je součet úhlů v trojúhelníku?",
+      "options": ["180°", "90°", "360°", "270°"],
+      "answer": "180°"
+    },
+    {
+      "question": "Kolik je druhá mocnina čísla 12?",
+      "options": ["124", "144", "164", "122"],
+      "answer": "144"
+    },
+    {
+      "question": "Jak se nazývá číslo pod odmocninou?",
+      "options": ["Exponent", "Radikand", "Koeficient", "Zlomek"],
+      "answer": "Radikand"
+    },
+    {
+      "question": "Kolik je 100 ÷ 4?",
+      "options": ["20", "25", "30", "40"],
+      "answer": "25"
+    },
+    {
+      "question": "Jaký je výsledek výrazu: (3 + 5) × 2?",
+      "options": ["13", "16", "10", "14"],
+      "answer": "16"
+    },
+    {
+      "question": "Jak se nazývá rovnice s neznámou?",
+      "options": ["Funkce", "Výraz", "Algebraická rovnice", "Logaritmus"],
+      "answer": "Algebraická rovnice"
+    },
+    {
+      "question": "Kolik je 9²?",
+      "options": ["81", "72", "90", "99"],
+      "answer": "81"
+    },
+    {
+      "question": "Jaký je obvod čtverce se stranou 5 cm?",
+      "options": ["10 cm", "15 cm", "20 cm", "25 cm"],
+      "answer": "20 cm"
+    },
+    {
+      "question": "Jaký je vzorec pro obsah obdélníku?",
+      "options": ["a + b", "a × b", "2a + 2b", "a² + b²"],
+      "answer": "a × b"
+    },
+    {
+      "question": "Kolik je 0,25 jako zlomek?",
+      "options": ["1/2", "1/4", "3/4", "2/5"],
+      "answer": "1/4"
+    },
+    {
+      "question": "Jaký je výsledek: 3 × (4 + 2)?",
+      "options": ["18", "12", "20", "14"],
+      "answer": "18"
+    },
+    {
+      "question": "Jak se nazývá osa, která jde vodorovně v souřadnicovém systému?",
+      "options": ["Y", "Z", "X", "W"],
+      "answer": "X"
+    },
+    {
+      "question": "Kolik je 1/2 + 1/4?",
+      "options": ["3/4", "2/4", "1", "5/8"],
+      "answer": "3/4"
+    },
+    {
+      "question": "Jaký je výsledek: 15 % z 200?",
+      "options": ["25", "30", "35", "40"],
+      "answer": "30"
+    },
+
+    {
+      "question": "Jaký je výsledek výrazu: (10 − 3) × 2?",
+      "options": ["14", "16", "12", "10"],
+      "answer": "14"
+    },
+    {
+      "question": "Jaký je součet vnitřních úhlů čtyřúhelníku?",
+      "options": ["180°", "360°", "270°", "90°"],
+      "answer": "360°"
+    },
+    {
+      "question": "Kolik je třetí mocnina čísla 3?",
+      "options": ["9", "27", "18", "81"],
+      "answer": "27"
+    },
+    {
+      "question": "Jaký je výsledek: 5! (faktoriál pěti)?",
+      "options": ["120", "60", "24", "100"],
+      "answer": "120"
+    },
+    {
+      "question": "Jaký je vzorec pro obsah kruhu?",
+      "options": ["πr²", "2πr", "πd", "r²"],
+      "answer": "πr²"
+    },
+    {
+      "question": "Kolik je 1/3 z 90?",
+      "options": ["30", "20", "25", "15"],
+      "answer": "30"
+    },
+    {
+      "question": "Jaký je výsledek: √49?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "7"
+    },
+    {
+      "question": "Jak se nazývá trojúhelník, který má všechny strany různé?",
+      "options": ["Rovnostranný", "Rovnoramenný", "Různostranný", "Pravoúhlý"],
+      "answer": "Různostranný"
+    },
+    {
+      "question": "Kolik je 0,75 jako zlomek?",
+      "options": ["3/4", "1/2", "2/3", "1/4"],
+      "answer": "3/4"
+    },
+    {
+      "question": "Jaký je výsledek: 2² + 3²?",
+      "options": ["13", "12", "10", "14"],
+      "answer": "13"
+    },
+    {
+      "question": "Jaký je rozdíl mezi 100 a 37?",
+      "options": ["63", "67", "73", "61"],
+      "answer": "63"
+    },
+    {
+      "question": "Jaký je výsledek: 8 × 7 − 10?",
+      "options": ["46", "56", "54", "50"],
+      "answer": "46"
+    },
+    {
+      "question": "Jaký je vzorec pro obvod obdélníku?",
+      "options": ["a × b", "2a + 2b", "a² + b²", "a + b"],
+      "answer": "2a + 2b"
+    },
+    {
+      "question": "Kolik je 20 % z 150?",
+      "options": ["30", "25", "35", "40"],
+      "answer": "30"
+    },
+    {
+      "question": "Jaký je výsledek: (6 + 2)²?",
+      "options": ["64", "36", "49", "81"],
+      "answer": "64"
+    },
+
+    {
+      "question": "Jaký je výsledek: 11 × 11?",
+      "options": ["121", "111", "101", "131"],
+      "answer": "121"
+    },
+    {
+      "question": "Jaký je rozdíl mezi 250 a 175?",
+      "options": ["75", "85", "65", "95"],
+      "answer": "75"
+    },
+    {
+      "question": "Jaký je výsledek: 2 × (6 + 4)?",
+      "options": ["20", "18", "16", "22"],
+      "answer": "20"
+    },
+    {
+      "question": "Kolik je 10 % z 250?",
+      "options": ["25", "20", "30", "15"],
+      "answer": "25"
+    },
+    {
+      "question": "Jaký je výsledek: √81?",
+      "options": ["9", "8", "7", "6"],
+      "answer": "9"
+    },
+    {
+      "question": "Jaký je součet čísel od 1 do 5?",
+      "options": ["15", "10", "20", "12"],
+      "answer": "15"
+    },
+    {
+      "question": "Jaký je výsledek: 3³?",
+      "options": ["9", "27", "18", "36"],
+      "answer": "27"
+    },
+    {
+      "question": "Jaký je vzorec pro obsah trojúhelníku?",
+      "options": ["a × b", "½ × základna × výška", "a² + b²", "πr²"],
+      "answer": "½ × základna × výška"
+    },
+    {
+      "question": "Kolik je 2/5 z 100?",
+      "options": ["40", "20", "50", "60"],
+      "answer": "40"
+    },
+    {
+      "question": "Jaký je výsledek: 100 − (25 + 35)?",
+      "options": ["40", "45", "50", "55"],
+      "answer": "40"
+    },
+    {
+      "question": "Jaký je výsledek: 6 × 7 + 2?",
+      "options": ["44", "42", "40", "44"],
+      "answer": "44"
+    },
+    {
+      "question": "Jaký je výsledek: 5² − 3²?",
+      "options": ["16", "14", "12", "10"],
+      "answer": "16"
+    },
+    {
+      "question": "Jaký je výsledek: 0,2 × 50?",
+      "options": ["10", "5", "15", "20"],
+      "answer": "10"
+    },
+    {
+      "question": "Jaký je výsledek: 100 ÷ 25?",
+      "options": ["4", "5", "3", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "Jaký je výsledek: (9 − 3)²?",
+      "options": ["36", "30", "42", "48"],
+      "answer": "36"
+    }
+  ],
+  "logika": [
+
+    {
+      "question": "Kolik měsíců v roce má 28 dní?",
+      "options": ["1", "12", "2", "6"],
+      "answer": "12"
+    },
+    {
+      "question": "Petr má 4 sestry a každá sestra má jednoho bratra. Kolik bratrů mají dohromady?",
+      "options": ["1", "4", "5", "0"],
+      "answer": "1"
+    },
+    {
+      "question": "Co roste, když se to bere?",
+      "options": ["Dluh", "Stín", "Věk", "Hlad"],
+      "answer": "Dluh"
+    },
+    {
+      "question": "Když to máš, chceš se o to podělit. Když se podělíš, už to nemáš. Co je to?",
+      "options": ["Tajemství", "Peníze", "Láska", "Čas"],
+      "answer": "Tajemství"
+    },
+    {
+      "question": "Kolik stran má kruh?",
+      "options": ["0", "1", "2", "Nekonečně mnoho"],
+      "answer": "1"
+    },
+    {
+      "question": "Které číslo je logicky další v řadě: 2, 4, 8, 16, ...?",
+      "options": ["24", "32", "30", "20"],
+      "answer": "32"
+    },
+    {
+      "question": "Jsem vždy před tebou, ale nikdy mě nemůžeš dohnat. Co jsem?",
+      "options": ["Budoucnost", "Stín", "Vzpomínka", "Vítr"],
+      "answer": "Budoucnost"
+    },
+    {
+      "question": "Když máš jedno, chceš dvě. Když máš dvě, chceš čtyři. Co je to?",
+      "options": ["Peníze", "Děti", "Moc", "Pár bot"],
+      "answer": "Pár bot"
+    },
+    {
+      "question": "Které číslo je liché a zároveň prvočíslo?",
+      "options": ["4", "6", "9", "7"],
+      "answer": "7"
+    },
+    {
+      "question": "Když se to rozbije, neudělá to žádný zvuk. Co je to?",
+      "options": ["Ticho", "Sklo", "Voda", "Stín"],
+      "answer": "Ticho"
+    },
+    {
+      "question": "Které slovo je vždy špatně napsané ve slovníku?",
+      "options": ["Špatně", "Chyba", "Slovník", "Nesprávně"],
+      "answer": "Špatně"
+    },
+    {
+      "question": "Které číslo je mezi 1 a 100 a je dělitelné 3 i 5?",
+      "options": ["15", "30", "45", "Všechny uvedené"],
+      "answer": "Všechny uvedené"
+    },
+    {
+      "question": "Když to položíš, je to těžké. Když to zvedneš, je to lehké. Co je to?",
+      "options": ["Zodpovědnost", "Stín", "Papír", "Zlato"],
+      "answer": "Zodpovědnost"
+    },
+    {
+      "question": "Které číslo je násobkem 9 a zároveň sudé?",
+      "options": ["18", "27", "36", "Obě 18 a 36"],
+      "answer": "Obě 18 a 36"
+    },
+    {
+      "question": "Když to máš, můžeš to ztratit. Když to ztratíš, můžeš to najít. Co je to?",
+      "options": ["Klíč", "Smysl", "Čas", "Cesta"],
+      "answer": "Klíč"
+    },
+
+    {
+      "question": "Které číslo doplní řadu: 1, 3, 6, 10, 15, ...?",
+      "options": ["21", "20", "19", "18"],
+      "answer": "21"
+    },
+    {
+      "question": "Máš dvě mince, které dohromady dávají 30 Kč. Jedna z nich není desetikoruna. Jaké jsou to mince?",
+      "options": ["20 Kč a 10 Kč", "10 Kč a 10 Kč", "5 Kč a 25 Kč", "15 Kč a 15 Kč"],
+      "answer": "20 Kč a 10 Kč"
+    },
+    {
+      "question": "Které slovo začíná na 'e', končí na 'e' a obsahuje jen jedno písmeno?",
+      "options": ["Envelope", "Eye", "Eve", "Edge"],
+      "answer": "Envelope"
+    },
+    {
+      "question": "Když to máš, chceš to sdílet. Když to sdílíš, už to nemáš. Co je to?",
+      "options": ["Tajemství", "Radost", "Peníze", "Čas"],
+      "answer": "Tajemství"
+    },
+    {
+      "question": "Které číslo je násobkem 4 a zároveň liché?",
+      "options": ["Žádné", "12", "8", "16"],
+      "answer": "Žádné"
+    },
+    {
+      "question": "Které číslo je logicky další v řadě: 1, 4, 9, 16, ...?",
+      "options": ["25", "20", "30", "36"],
+      "answer": "25"
+    },
+    {
+      "question": "Když to máš, je to neviditelné. Když to ztratíš, všichni to poznají. Co je to?",
+      "options": ["Trpělivost", "Rozum", "Sebevědomí", "Nálada"],
+      "answer": "Trpělivost"
+    },
+    {
+      "question": "Které číslo je prvočíslo: 21, 29, 33, 35?",
+      "options": ["29", "21", "33", "35"],
+      "answer": "29"
+    },
+    {
+      "question": "Které číslo je mezi 50 a 60 a je dělitelné 7?",
+      "options": ["56", "54", "58", "52"],
+      "answer": "56"
+    },
+    {
+      "question": "Které číslo je dvojnásobkem 13?",
+      "options": ["26", "23", "24", "25"],
+      "answer": "26"
+    },
+    {
+      "question": "Když to rozdělíš, je to víc. Když to spojíš, je to méně. Co je to?",
+      "options": ["Pozornost", "Čas", "Tým", "Problém"],
+      "answer": "Pozornost"
+    },
+    {
+      "question": "Které číslo je součtem 7 a 9?",
+      "options": ["16", "15", "17", "14"],
+      "answer": "16"
+    },
+    {
+      "question": "Které číslo je menší než 100, dělitelné 5 a končí číslicí 5?",
+      "options": ["95", "85", "75", "Všechny uvedené"],
+      "answer": "Všechny uvedené"
+    },
+    {
+      "question": "Když to máš, můžeš to ztratit. Když to ztratíš, můžeš to najít. Co je to?",
+      "options": ["Směr", "Klíč", "Naděje", "Cesta"],
+      "answer": "Klíč"
+    },
+    {
+      "question": "Které číslo je mezi 1 a 10 a je dělitelné 2 i 3?",
+      "options": ["6", "4", "8", "2"],
+      "answer": "6"
+    },
+
+    {
+      "question": "Které číslo doplní řadu: 2, 5, 10, 17, 26, ...?",
+      "options": ["37", "36", "35", "34"],
+      "answer": "37"
+    },
+    {
+      "question": "Které číslo je liché, prvočíslo a menší než 10?",
+      "options": ["3", "5", "7", "Všechny uvedené"],
+      "answer": "Všechny uvedené"
+    },
+    {
+      "question": "Když to rozdělíš mezi více lidí, nikdo to nemá celé. Co je to?",
+      "options": ["Tajemství", "Koláč", "Pozornost", "Zodpovědnost"],
+      "answer": "Koláč"
+    },
+    {
+      "question": "Které číslo je násobkem 6 a zároveň sudé?",
+      "options": ["12", "18", "24", "Všechny uvedené"],
+      "answer": "Všechny uvedené"
+    },
+    {
+      "question": "Které číslo je mezi 10 a 20 a je dělitelné 4?",
+      "options": ["12", "16", "20", "Obě 12 a 16"],
+      "answer": "Obě 12 a 16"
+    },
+    {
+      "question": "Když to máš, můžeš to sdílet. Když to sdílíš, můžeš ho ztratit. Co je to?",
+      "options": ["Ticho", "Tajemství", "Důvěra", "Peníze"],
+      "answer": "Důvěra"
+    },
+    {
+      "question": "Které číslo je dvojnásobkem 17?",
+      "options": ["34", "33", "35", "36"],
+      "answer": "34"
+    },
+    {
+      "question": "Které číslo je součtem 8 a 12?",
+      "options": ["20", "18", "22", "19"],
+      "answer": "20"
+    },
+    {
+      "question": "Které číslo je mezi 1 a 100 a je dělitelné 9?",
+      "options": ["18", "27", "36", "Všechny uvedené"],
+      "answer": "Všechny uvedené"
+    },
+    {
+      "question": "Když to máš, můžeš to ztratit. Když to ztratíš, můžeš to získat zpět. Co je to?",
+      "options": ["Smysl", "Naděje", "Cesta", "Klíč"],
+      "answer": "Naděje"
+    },
+    {
+      "question": "Které číslo je logicky další v řadě: 1, 2, 4, 8, 16, ...?",
+      "options": ["32", "30", "28", "36"],
+      "answer": "32"
+    },
+    {
+      "question": "Které číslo je mezi 30 a 40 a je prvočíslo?",
+      "options": ["31", "37", "39", "Obě 31 a 37"],
+      "answer": "Obě 31 a 37"
+    },
+    {
+      "question": "Které číslo je součtem 9 a 6?",
+      "options": ["15", "14", "16", "13"],
+      "answer": "15"
+    },
+    {
+      "question": "Které číslo je dělitelné 2, 3 a 6?",
+      "options": ["6", "12", "18", "Všechny uvedené"],
+      "answer": "Všechny uvedené"
+    },
+    {
+      "question": "Když to máš, můžeš to ztratit. Když to ztratíš, můžeš to najít. Co je to?",
+      "options": ["Směr", "Klíč", "Naděje", "Cesta"],
+      "answer": "Směr"
+    }
+  ]
 }
+
 
