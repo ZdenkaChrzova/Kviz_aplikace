@@ -912,7 +912,314 @@
         "options": ["LCD", "LED", "OLED", "CRT"],
         "correctIndex": 2
     }
+],
+"jazyk": [
+    {
+        "question": "Které slovo je synonymem pro 'rychlý'?",
+        "options": ["Pomalu", "Zdlouhavý", "Svižný", "Lenivý"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Které slovo je antonymem ke slovu 'vysoký'?",
+        "options": ["Dlouhý", "Nízký", "Široký", "Malý"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jaké slovo označuje skupinu slov se stejným významem?",
+        "options": ["Antonymum", "Synonymum", "Homonymum", "Přídavné jméno"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Které z následujících slov je homonymum?",
+        "options": ["Kolo", "Auto", "Stůl", "Pes"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jaký slovní druh je slovo 'krásně'?",
+        "options": ["Podstatné jméno", "Přídavné jméno", "Příslovce", "Sloveso"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Které slovo je zdrobnělina?",
+        "options": ["Kočka", "Kočička", "Pes", "Pták"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jaký je význam slova 'archaismus'?",
+        "options": ["Nové slovo", "Slovo z cizího jazyka", "Zastaralé slovo", "Technický termín"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Které slovo je přídavné jméno?",
+        "options": ["Běh", "Rychlý", "Běžet", "Rychle"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jaký je význam slova 'neologismus'?",
+        "options": ["Zastaralé slovo", "Nově vzniklé slovo", "Slovo z jiného jazyka", "Slovo s více významy"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Které slovo je podstatné jméno?",
+        "options": ["Červený", "Běhat", "Stůl", "Rychle"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jaký je význam slova 'polysemie'?",
+        "options": ["Slovo s jedním významem", "Slovo s více významy", "Slovo z cizího jazyka", "Slovo bez významu"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Které slovo je sloveso?",
+        "options": ["Běhat", "Rychlý", "Stůl", "Krásně"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jaký je význam slova 'etymologie'?",
+        "options": ["Význam slova", "Výslovnost slova", "Původ slova", "Použití slova"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Které slovo je příkladem cizího slova?",
+        "options": ["Stůl", "Auto", "Pes", "Kniha"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jaký je význam slova 'dialekt'?",
+        "options": ["Spisovný jazyk", "Cizí jazyk", "Místní nářečí", "Technický jazyk"],
+        "correctIndex": 2
+    },
+
+    {
+        "question": "Které slovo je příkladem přechodníku?",
+        "options": ["Běžel", "Běže", "Běh", "Běhající"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jaký slovní druh je slovo 'ačkoliv'?",
+        "options": ["Spojka", "Příslovce", "Podstatné jméno", "Zájmeno"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Které slovo je příkladem citoslovce?",
+        "options": ["On", "Bum", "Rychle", "Já"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Jaký je význam slova 'oxymóron'?",
+        "options": ["Přehnané tvrzení", "Protikladná spojení", "Opakování slov", "Změna významu"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Které slovo je příkladem metafory?",
+        "options": ["Zlaté srdce", "Běžel rychle", "Velký dům", "Modré nebe"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jaký je význam slova 'personifikace'?",
+        "options": ["Přirovnání", "Zosobnění neživého", "Opakování hlásek", "Změna slovosledu"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Které slovo je příkladem přídavného jména tvrdého?",
+        "options": ["Hezký", "Malý", "Velký", "Měkký"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jaký je význam slova 'paronymum'?",
+        "options": ["Slovo s opačným významem", "Slovo podobné zvukem, jiné významem", "Slovo s více významy", "Slovo z jiného jazyka"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Které slovo je příkladem přechylování?",
+        "options": ["Učitelka", "Učitel", "Učení", "Učit"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jaký slovní druh je slovo 'někdo'?",
+        "options": ["Zájmeno", "Podstatné jméno", "Příslovce", "Spojka"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Které slovo je příkladem přímé řeči?",
+        "options": ["Řekl, že přijde.", "Přijdu zítra.", "Řekl: 'Přijdu zítra.'", "Zítra přijde."],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jaký je význam slova 'aliterace'?",
+        "options": ["Opakování významu", "Opakování hlásky na začátku slov", "Spojení protikladů", "Změna slovního druhu"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Které slovo je příkladem přísudku slovesného?",
+        "options": ["Běžel", "Rychlý", "Běh", "On"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Jaký je význam slova 'eufemismus'?",
+        "options": ["Zjemněné vyjádření", "Hrubé vyjádření", "Přímé vyjádření", "Zastaralé vyjádření"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Které slovo je příkladem přívlastku?",
+        "options": ["Velký dům", "Dům", "Velký", "Běh"],
+        "correctIndex": 0
+    }
+],
+"myšlenkové hádanky": [
+
+    {
+        "question": "Muž se dívá na portrét. Někdo se ho zeptá: 'Koho to je?' Odpoví: 'Nemám žádné sourozence, ale otec toho muže na obrázku je syn mého otce.' Koho vidí?",
+        "options": ["Sebe", "Svého syna", "Svého otce", "Svého bratra"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Kolik měsíců v roce má 28 dní?",
+        "options": ["Jeden", "Dva", "Všechny", "Žádný"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Jedeš autobusem. Na první zastávce nastoupí 3 lidé, na druhé vystoupí 1 a nastoupí 2. Kolik lidí je v autobuse, pokud jsi jediný, kdo byl v něm od začátku?",
+        "options": ["4", "5", "6", "7"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Co roste, když se to vezme pryč?",
+        "options": ["Díra", "Stín", "Tma", "Mlčení"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Máš jedno zápalkové krabičky, každá obsahuje 6 zápalek. Kolik konců mají všechny zápalky dohromady?",
+        "options": ["6", "12", "18", "36"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Co má klíč, ale nemůže otevřít žádné dveře?",
+        "options": ["Zámek", "Klavír", "Mapa", "Telefon"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Co můžeš rozbít, aniž bys se ho dotkl?",
+        "options": ["Sklo", "Ticho", "Slib", "Stín"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Co má hlavu, ocas, ale nemá tělo?",
+        "options": ["Had", "Mince", "Stín", "Hřebík"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Když to máš, chceš se toho zbavit. Když to nemáš, hledáš to. Co je to?",
+        "options": ["Problém", "Tajemství", "Peníze", "Láska"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Co se stane čím víc to sdílíš?",
+        "options": ["Zmenší se", "Ztratí se", "Zvětší se", "Zeslábne"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Co můžeš držet bez použití rukou?",
+        "options": ["Dech", "Myšlenku", "Slovo", "Ticho"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Co má mnoho srdcí, ale žádné tělo?",
+        "options": ["Stroj", "Kniha", "Balíček karet", "Počítač"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Když to vyslovíš, už to není. Co je to?",
+        "options": ["Ticho", "Tajemství", "Slib", "Sen"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Co má oči, ale nevidí?",
+        "options": ["Jehla", "Brýle", "Socha", "Bouře"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Co je těžší než slon, ale nic neváží?",
+        "options": ["Myšlenka", "Strach", "Stín", "Tma"],
+        "correctIndex": 1
+    },
+
+    {
+        "question": "Co může cestovat po světě, ale zůstává na jednom místě?",
+        "options": ["Mapa", "Světlo", "Myšlenka", "Stín"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Co má jednu nohu a žádné kosti?",
+        "options": ["Stůl", "Deštník", "Židle", "Hodiny"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Co je vždy před tebou, ale nikdy to nevidíš?",
+        "options": ["Vzduch", "Budoucnost", "Stín", "Tma"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Co se zmenšuje, čím víc to používáš?",
+        "options": ["Guma", "Svíčka", "Tuha", "Trpělivost"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Co má zuby, ale nekouše?",
+        "options": ["Hřeben", "Pila", "Zámek", "Krokodýl"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Co se zvedá, ale nikdy neklesá?",
+        "options": ["Věk", "Slunce", "Teplota", "Hladina"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Co je plné děr, ale stále drží vodu?",
+        "options": ["Síto", "Houba", "Kbelík", "Látka"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Co má ruce, ale nemůže tleskat?",
+        "options": ["Hodiny", "Socha", "Stroj", "Panenka"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Co můžeš najít uprostřed vody?",
+        "options": ["Život", "Písmeno 'd'", "Ostrov", "Vlna"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Co má krk, ale nemá hlavu?",
+        "options": ["Láhev", "Košile", "Strom", "Židle"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Co se pohybuje bez motoru a mluví bez úst?",
+        "options": ["Vítr", "Echo", "Stín", "Myšlenka"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Co se nikdy neunaví, ale stále běží?",
+        "options": ["Řeka", "Hodiny", "Vítr", "Myšlenka"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Co má klobouk, ale nemá hlavu?",
+        "options": ["Hřib", "Panenka", "Strom", "Deštník"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Co můžeš slyšet, ale nikdy se ho nedotkneš?",
+        "options": ["Zvuk", "Slovo", "Vítr", "Ticho"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Co je tvoje, ale ostatní to používají víc než ty?",
+        "options": ["Jméno", "Telefon", "Dům", "Auto"],
+        "correctIndex": 0
+    }
 ]
 
-
 }
+

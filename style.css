@@ -21,12 +21,12 @@ body.dark-mode h1 {
 }
 
 body.dark-mode .correct {
-  background-color: #2ecc71;
+  background-color: #b7e9cc;
   border-left-color: #27ae60;
 }
 
 body.dark-mode .incorrect {
-  background-color: #e74c3c;
+  background-color: #ddbbb8;
   border-left-color: #c0392b;
 }
 
