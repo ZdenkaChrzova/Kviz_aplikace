@@ -27,7 +27,7 @@ function loadQuiz(questionsToRender) {
 
   questionsToRender.forEach((q, index) => {
     const questionDiv = document.createElement("div");
-    questionDiv.className = "question fade-in"; // ✨ animace
+    questionDiv.className = "question fade-in";
 
     const questionText = document.createElement("p");
     questionText.textContent = `${index + 1}. ${q.question}`;
@@ -42,6 +42,15 @@ function loadQuiz(questionsToRender) {
       questionDiv.appendChild(label);
       questionDiv.appendChild(document.createElement("br"));
     });
+
+    // Připrav místo pro info (skryté)
+    if (q.info) {
+      const infoBlock = document.createElement("div");
+      infoBlock.className = "info";
+      infoBlock.style.display = "none";
+      infoBlock.textContent = q.info;
+      questionDiv.appendChild(infoBlock);
+    }
 
     quizContainer.appendChild(questionDiv);
   });
@@ -95,6 +104,15 @@ function showCorrectAnswers() {
     correctInfo.style.fontWeight = "bold";
     correctInfo.textContent = `Správná odpověď: ${correctOption}`;
     questionDiv.appendChild(correctInfo);
+
+    // Zobraz doplňkovou informaci, pokud existuje
+    const infoBlock = questionDiv.querySelector(".info");
+    if (infoBlock) {
+      infoBlock.style.display = "block";
+      infoBlock.style.marginTop = "5px";
+      infoBlock.style.fontStyle = "italic";
+      infoBlock.style.color = "#444";
+    }
   });
 
   document.getElementById("showAnswers").style.display = "none";

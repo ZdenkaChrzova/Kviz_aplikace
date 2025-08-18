@@ -1902,7 +1902,417 @@
       "options": ["Směr", "Klíč", "Naděje", "Cesta"],
       "correctIndex": 0
     }
+     ],
+     "co-se-stalo-driv": [
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První přistání člověka na Měsíci",
+            "Vznik internetu"
+        ],
+        "correctIndex": 0,
+        "info": "Měsíc: 20. 7. 1969 (Apollo 11); ARPANET (počátky internetu): 29. 10. 1969"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vynález telefonu",
+            "Vynález žárovky"
+        ],
+        "correctIndex": 0,
+        "info": "Telefon (Bell): 1876; Žárovka (Edison): 1879"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Pád Berlínské zdi",
+            "Vznik Evropské unie"
+        ],
+        "correctIndex": 0,
+        "info": "Pád zdi: 1989; EU (Maastricht): 1993"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Objevení Ameriky Kryštofem Kolumbem",
+            "Vynález knihtisku"
+        ],
+        "correctIndex": 1,
+        "info": "Knihtisk (Gutenberg): ~1450; Kolumbus: 1492"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První let bratří Wrightů",
+            "První světová válka"
+        ],
+        "correctIndex": 0,
+        "info": "Wright: 1903; První světová válka: 1914–1918"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vznik YouTube",
+            "Vznik Facebooku"
+        ],
+        "correctIndex": 1,
+        "info": "Facebook: 2004; YouTube: 2005"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První olympijské hry v Aténách (moderní)",
+            "Vznik Nobelovy ceny"
+        ],
+        "correctIndex": 0,
+        "info": "OH (Atény): 1896; Nobelova cena – první udělení: 1901"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vynález parního stroje",
+            "První železnice"
+        ],
+        "correctIndex": 0,
+        "info": "Parní stroj (Newcomen): 1712; První veřejná železnice (Stockton–Darlington): 1825"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První film promítaný bratry Lumièr",
+            "Vznik Hollywoodu"
+        ],
+        "correctIndex": 0,
+        "info": "Lumière: 1895; Hollywood jako filmové centrum: 1910s"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První světová válka",
+            "Velká hospodářská krize"
+        ],
+        "correctIndex": 0,
+        "info": "První světová válka: 1914–1918; Velká hospodářská krize: 1929–1930s"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vznik Československa",
+            "Vznik OSN"
+        ],
+        "correctIndex": 0,
+        "info": "Československo: 1918; OSN: 1945"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První email",
+            "Vznik WWW (World Wide Web)"
+        ],
+        "correctIndex": 0,
+        "info": "První email (Ray Tomlinson): 1971; WWW (Tim Berners-Lee): 1989–1990"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První iPhone",
+            "První Android telefon"
+        ],
+        "correctIndex": 0,
+        "info": "iPhone: 2007; Android (HTC Dream): 2008"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První Nobelova cena",
+            "První let do vesmíru"
+        ],
+        "correctIndex": 0,
+        "info": "Nobelovy ceny – první udělení: 1901; První let do vesmíru (Gagarin): 1961"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Bitva u Waterloo",
+            "Americká občanská válka"
+        ],
+        "correctIndex": 0,
+        "info": "Waterloo: 1815; Americká občanská válka: 1861–1865"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První vydání Harryho Pottera",
+            "Premiéra filmu Titanic"
+        ],
+        "correctIndex": 0,
+        "info": "Harry Potter a Kámen mudrců (kniha, UK): 6/1997; Titanic (film): 12/1997"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vznik Wikipedie",
+            "Vznik Google"
+        ],
+        "correctIndex": 1,
+        "info": "Google: 1998; Wikipedie: 2001"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První let do vesmíru",
+            "První člověk na Měsíci"
+        ],
+        "correctIndex": 0,
+        "info": "První let do vesmíru (Gagarin): 1961; Přistání na Měsíci: 1969"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vynález rádia",
+            "Vynález televize"
+        ],
+        "correctIndex": 0,
+        "info": "Rádio (Marconi): 1895/1896; Televize: 1920s–1930s"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První světová válka",
+            "Druhá světová válka"
+        ],
+        "correctIndex": 0,
+        "info": "První světová válka: 1914–1918; Druhá světová válka: 1939–1945"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vznik Instagramu",
+            "Vznik TikToku"
+        ],
+        "correctIndex": 0,
+        "info": "Instagram: 2010; TikTok (Douyin/TikTok): 2016/2017"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První vydání Windows XP",
+            "První vydání Windows 95"
+        ],
+        "correctIndex": 1,
+        "info": "Windows 95: 1995; Windows XP: 2001"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První let Concordu",
+            "První let Boeingu 747"
+        ],
+        "correctIndex": 1,
+        "info": "Boeing 747: 9. 2. 1969; Concorde: 2. 3. 1969"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vznik eurozóny",
+            "Pád Sovětského svazu"
+        ],
+        "correctIndex": 1,
+        "info": "Pád SSSR: 1991; Eurozóna (bezhotovostně): 1999, hotovost: 2002"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První vydání PlayStation",
+            "První vydání Xboxu"
+        ],
+        "correctIndex": 0,
+        "info": "PlayStation: 1994; Xbox: 2001"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vznik Netflixu",
+            "Vznik Spotify"
+        ],
+        "correctIndex": 0,
+        "info": "Netflix: 1997; Spotify: 2006"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První Nobelova cena za mír",
+            "Vznik Ligy národů"
+        ],
+        "correctIndex": 0,
+        "info": "Nobelova cena za mír – první udělení: 1901; Liga národů: 1920"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První vydání Windows 10",
+            "První vydání iOS"
+        ],
+        "correctIndex": 1,
+        "info": "iOS (iPhone OS): 2007; Windows 10: 2015"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První film s Harry Potterem",
+            "První film s Pánem prstenů"
+        ],
+        "correctIndex": 0,
+        "info": "Harry Potter a Kámen mudrců: 11/2001; Společenstvo prstenu: 12/2001"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vznik Eurovize",
+            "Vznik MTV"
+        ],
+        "correctIndex": 0,
+        "info": "Eurovize: 1956; MTV: 1981"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vznik první české televize",
+            "Vznik Českého rozhlasu"
+        ],
+        "correctIndex": 1,
+        "info": "Český rozhlas (Radiojournal): 1923; Československá televize: 1953"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První vydání časopisu National Geographic",
+            "První vydání časopisu Time"
+        ],
+        "correctIndex": 0,
+        "info": "National Geographic Society magazín: 1888; Time: 1923"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První let balónem",
+            "První let vzducholodí"
+        ],
+        "correctIndex": 0,
+        "info": "Balón (Montgolfier): 1783; Vzducholoď (Giffard): 1852"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vznik Microsoftu",
+            "Vznik Apple"
+        ],
+        "correctIndex": 0,
+        "info": "Microsoft: 1975; Apple: 1976"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První vydání hry Tetris",
+            "První vydání hry Pac-Man"
+        ],
+        "correctIndex": 1,
+        "info": "Pac-Man: 1980; Tetris: 1984"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vstup České republiky do NATO",
+            "Vstup České republiky do Evropské unie"
+        ],
+        "correctIndex": 0,
+        "info": "ČR do NATO: 12. 3. 1999; ČR do EU: 1. 5. 2004"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vznik OS Android",
+            "Vznik OS Linux"
+        ],
+        "correctIndex": 1,
+        "info": "Linux: 1991; Android: 2008"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První vydání knihy Pán prstenů",
+            "První vydání knihy Hobit"
+        ],
+        "correctIndex": 1,
+        "info": "Hobit: 1937; Pán prstenů: 1954–1955"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První vysílání BBC",
+            "První vysílání CNN"
+        ],
+        "correctIndex": 0,
+        "info": "BBC (radio): 1922; CNN: 1980"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První vydání Windows 3.1",
+            "První vydání Windows 95"
+        ],
+        "correctIndex": 0,
+        "info": "Windows 3.1: 1992; Windows 95: 1995"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vznik Eurotunelu",
+            "Vznik Panamského průplavu"
+        ],
+        "correctIndex": 1,
+        "info": "Panamský průplav: 1914; Eurotunel: 1994"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První vydání alba Thriller od Michaela Jacksona",
+            "První vydání alba Abbey Road od Beatles"
+        ],
+        "correctIndex": 1,
+        "info": "Abbey Road: 1969; Thriller: 1982"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První vydání hry The Sims",
+            "První vydání hry SimCity"
+        ],
+        "correctIndex": 1,
+        "info": "SimCity: 1989; The Sims: 2000"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "Vznik první československé republiky",
+            "Vznik Rakouska-Uherska"
+        ],
+        "correctIndex": 1,
+        "info": "Rakousko-Uhersko: 1867; První ČSR: 1918"
+    },
+    {
+        "question": "Co se stalo dřív?",
+        "options": [
+            "První vydání časopisu Vogue",
+            "První vydání časopisu Elle"
+        ],
+        "correctIndex": 0,
+        "info": "Vogue: 1892; Elle: 1945"
+    }
   ]
 }
+
+ 
+
 
 

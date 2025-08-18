@@ -29,6 +29,7 @@
       <option value="medicína">Medicína</option>
       <option value="matematika">Matematika</option>
       <option value="logika">Logika</option>
+      <option value="co-se-stalo-driv">Co se stalo dřív?</option>
     </select>
     <button id="start">Spustit kvíz</button>
 
@@ -47,7 +48,6 @@
     const toggleButton = document.getElementById('toggle-theme');
     const body = document.body;
 
-    // Načti uložený režim
     if (localStorage.getItem('theme') === 'dark') {
       body.classList.add('dark-mode');
       toggleButton.textContent = '🌞 Světlý režim';
